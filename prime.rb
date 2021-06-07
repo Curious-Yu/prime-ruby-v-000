@@ -2,4 +2,7 @@
 def prime?(number)
   prime_number = true
   for n in 2..number-1
-    if number % n == 0 
+    if number % n == 0
+      prime_number = false
+    end
+    
