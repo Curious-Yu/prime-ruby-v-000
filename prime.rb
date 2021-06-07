@@ -1,4 +1,5 @@
 # Add  code here!
 def prime?(number)
   prime_number = true
-  for (n=2, )
+  n = 2
+  for n in 
