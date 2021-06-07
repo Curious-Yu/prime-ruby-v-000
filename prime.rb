@@ -5,4 +5,5 @@ def prime?(number)
     prime_number = false
 
   end
+  prime_number
 end
