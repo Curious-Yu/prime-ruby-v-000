@@ -1,2 +1,4 @@
 # Add  code here!
-def prime?()
+def prime?(number)
+  if number < 2
+    
